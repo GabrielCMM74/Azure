@@ -1,2 +1,138 @@
 Class on 6/6/22 - 6/7/22
 
+Designed for beginners and goes over Cloud Engineering. 
+
+Cloud computing - Deliver model for files/database delivers any service for storage. 
+Storage also means data and all the tools to migrate to the Cloud. 
+
+Storage, Compute power, Networking, and Analytics. 4 main services. 
+
+Scalability - Increasing its CPU, Memory, Storage based on resource scaling. 
+
+Elasticity - Properly designed system can allocate and take away resouces based on user needs. Can be automatic 
+
+Agility - Manual and Automated, User click or automated with API. Ability to react quickly 
+
+Fault Tolerance - Regardless of the service hosted you need a server and disk array. Remaing up and running during component and service failures. 
+
+Set up Disaster Recovery - setting up identical copies of your app and in two different regions. Set up a DNS server for users to be redirected and if a disaster occurs it will be redirected to the correct copy. 
+
+High availability - Extremely strict downtimes for companies most often going for 99.99% uptime. 
+
+Azure delivers very high availability but reviewing the product information is important for implementation. 
+
+https://marczak.io/az-900/episode-01/practice-test/
+
+Score = 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
