@@ -23,7 +23,9 @@ Azure delivers very high availability but reviewing the product information is i
 
 https://marczak.io/az-900/episode-01/practice-test/
 
-Score = 
+Score = 100%
+
+
 
 
 
